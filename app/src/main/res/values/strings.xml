@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">GIS - LBB Lamongan</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- Toolbar -->
+    <string name="awal">Gis - Lbb Lamongan</string>
+    <string name="lokuser">Lokasi User</string>
+    <string name="about">Tentang Pembuat</string>
+    <string name="carilok">Cari Lokasi LBB</string>
+    <string name="lis">Daftar LBB di Lamongan</string>
+    <!-- Menu Uttama -->
+    <string name="menu1">Daftar LBB</string>
+    <string name="menu2">Lokasi Saya</string>
+    <string name="menu3">Cari LBB</string>
+    <string name="menu4">Tentang Saya</string>
+    <string name="title_activity_lokasi">Map</string>
+
+    <string name="cari">Masukan Nama LBB</string>
+
+    <string name="nama">Nama :</string>
+    <string name="alamat">Alamat:</string>
+    <string name="notel">Nomer :</string>
+
+    <string name="latlong">latlong</string>
+    <string name="title_activity_rute">Map</string>
+</resources>

@@ -1,0 +1,4 @@
+Fasilitas - Halaman Depan,file:///android_asset/9/1.jpg
+Fasilitas - Kantor,file:///android_asset/9/2.jpg
+Fasilitas - Recepsionis,file:///android_asset/9/3.jpg
+Fasilitas - Ruang Kelas,file:///android_asset/9/4.jpg

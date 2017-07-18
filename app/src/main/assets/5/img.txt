@@ -1,0 +1,4 @@
+Fasilitas - Banner,file:///android_asset/5/1.png
+Fasilitas - Banner 2 ,file:///android_asset/5/2.jpg
+Fasilitas - Ruang Kelas,file:///android_asset/5/3.jpg
+Fasilitas - Ruang Kelas 2 ,file:///android_asset/5/4.jpg

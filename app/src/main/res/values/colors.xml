@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#304ffe</color>
+    <color name="colorPrimaryDark"> #3f51b5</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="putih">#fff</color>
+    <color name="hitam">#212121</color>
+    <color name="abu2">#bdbdbd</color>
+</resources>

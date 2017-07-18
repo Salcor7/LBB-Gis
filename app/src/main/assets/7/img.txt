@@ -1,0 +1,2 @@
+Fasilitas - Banner,file:///android_asset/7/1.jpg
+Fasilitas - Banner2,file:///android_asset/7/2.jpg

@@ -1,0 +1,8 @@
+Fasilitas - Ruang Bermain,file:///android_asset/2/ssc1.jpg
+Fasilitas - Kantor,file:///android_asset/2/ssc0.jpg
+Fasilitas - Ruang Belajar,file:///android_asset/2/ssc2.jpg
+Fasilitas - Ruang Baca,file:///android_asset/2/ssc3.jpg
+Fasilitas - Ruang Belajar2,file:///android_asset/2/ssc4.jpg
+Fasilitas - Ruang Aula,file:///android_asset/2/ssc5.jpg
+Fasilitas - Ruang TPA,file:///android_asset/2/ssc6.jpg
+Fasilitas - Ruang Musik,file:///android_asset/2/ssc7.jpg

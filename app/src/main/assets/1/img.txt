@@ -1,0 +1,2 @@
+Fasilitas - Ruang Kelas,file:///android_asset/1/1.jpg
+Fasilitas - Ruang Kelas 2,file:///android_asset/1/2.jpeg
