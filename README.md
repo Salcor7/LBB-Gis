@@ -3,7 +3,6 @@
 * Mendukung ``LBB`` di Kabupaten ``Lamongan`` 
 * Mendukung ``Pencarian``
 * Mendukung ``Rute Menuju Lokasi``
-* ***New*** **Support custom PathExtension**
 
 ## Screenshots
 
