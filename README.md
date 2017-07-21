@@ -17,5 +17,5 @@ Android Lolipop keatas
 ```
 ### Download
 
-[Download Link](http://smkmuhlmg.000webhostapp.com/upload/file/chomaruddin.apk)
+[Download Link](https://drive.google.com/open?id=0B4BtgLBK3nimMHVreDRCWi04NGs)
 
