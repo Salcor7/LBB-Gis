@@ -17,5 +17,5 @@ Android Lolipop keatas
 ```
 ### Download
 
-[Download Link](/Comaruddin.apk)
+[Download Link](http://smkmuhlmg.000webhostapp.com/upload/file/chomaruddin.apk)
 
