@@ -55,7 +55,10 @@
             android:parentActivityName=".DaftarLBB" />
         <activity
             android:name=".Rute"
-            android:label="@string/title_activity_rute"></activity>
+            android:label="@string/title_activity_rute" />
+        <activity android:name=".Upload"
+            android:label="Upload Gambar"
+            android:parentActivityName=".Utama"/>
     </application>
 
 </manifest>

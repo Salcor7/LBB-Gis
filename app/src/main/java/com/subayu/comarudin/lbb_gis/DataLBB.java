@@ -7,6 +7,7 @@ package com.subayu.comarudin.lbb_gis;
 public class DataLBB {
     public String no;
     public String nama;
+    String file;
     public String alamat;
     public String notel;
     public String latlbb;
